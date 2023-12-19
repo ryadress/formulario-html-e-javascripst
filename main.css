@@ -1,0 +1,23 @@
+body {
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-bottom: 15px;
+    margin-left: 452px ;
+    margin-right: 452px;
+    padding: 10px;
+}
+
+body h1 {
+    font-size: 30px;
+    background-color: cyan;
+
+}
+
+body input {
+    padding: 5px;
+}
+
+body button {
+    margin-left: 125px;
+}
